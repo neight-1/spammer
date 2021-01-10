@@ -4,16 +4,16 @@
 • apt update
 • apt upgrade
 • apt install git
-• git clone https://github.com/FSystem88/spymer
-• sh ~/spymer/install.sh
+• git clone https://github.com/KLIPEBOY/spammer
+• sh ~/spymmer/install.sh
 • spymer
 
 Если у вас iOS - скачать Testflight из App Store, после чего присоедениться к тестированию iSH в Testflight и прописать команды ниже:
 • apk update
 • apk upgrade
 • apk add git
-• git clone https://github.com/FSystem88/spymer
-• sh ~/spymer/install.sh
+• git clone https://github.com/KLIPEBOY/spammer
+• sh ~/spymmer/install.sh
 • spymer
 
 Установка на Linux аналогична установке на Android, только без Termux'a, достаточно прав SU и терминала.
